@@ -1,2 +1,2 @@
 # Marble
-A simple one page Photoshop mockup converted into an equally simple .html website using CSS and JavaScript
+A simple one page Photoshop mockup converted into .html website using CSS and JavaScript
